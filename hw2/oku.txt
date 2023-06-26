@@ -1,0 +1,3 @@
+https://web.ma.utexas.edu/users/m408n/CurrentWeb/LM4-8-2.php#:~:text=Newton's%20method%20is%20a%20technique,guess%20x1.
+
+https://math.stackexchange.com/questions/389368/convergence-rate-of-newtons-method
